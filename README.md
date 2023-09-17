@@ -1,13 +1,11 @@
 # CodeClauseInternship_Basic-Text-Editor
 
-Simple Basic Text-Editor  built using HTML, CSS, and JavaScript.
-This is task from [CodeClause](https://www.linkedin.com/company/codeclause/)
 
 ## Introduction
+This is a basic outline of creating a web-based text editor using HTML, CSS, and JavaScript. 
+Depending on your project's complexity and goals, you can expand upon these steps to add more advanced features and functionality. 
+This is task from [CodeClause](https://www.linkedin.com/company/codeclause/)
 
-<p align="center">
-   
-</p>
 Go and Check It. [Text Editor](https://gourango-cse.github.io/CodeClauseInternship_Basic-Text-Editor/) 
 
 ## Author
