@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Basic Text Editor</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+<section>
+<div class="editor">
+    <div class="header"><h1><i>Text Editor</i></h1> </div>
+              <div class="toolbar">
+                <button type="button" onclick="f1()"  title="Bold Text"><b>Bold</b></button>
+                <button type="button" onclick="f2()"  title="Italic Text"><i>Italic</i></button>
+                <button type="button" onclick="f3()"  title="Left Align">Left-></button>
+                <button type="button" onclick="f4()"  title="Center Align">Center</button>
+                <button type="button" onclick="f5()"  title="Right Align">Right</button>
+                <button type="button" onclick="increaseFontSize()" title="increase Font Size">aA</button>
+                <button type="button" onclick="decreaseFontSize()" title="decrease Font Size">Aa</button>
+
+                <button type="button" onclick="f6()"  title="UPPERCASE TEXT">UPPER</button>
+                <button type="button" onclick="f7()"  title="lowercase text">lower</button>
+                <button type="button" onclick="f8()"  title="Capitalize Text">Capitalize</button>
+                <button type="button" onclick="f9()"  title="Tooltip on top">Clear Text</button>
+                <button id="save-button" onclick="saveTextToFile()" title="save & Download the File">Save</button>
+              </div>
+              <br>
+             <textarea  id="textarea" class="editor" rows="15" cols="100" placeholder="Start typing...">Lorem ipsum dolor, sit amet consectetur adipisicing elit. Delectus dolor sunt tenetur harum temporibus dignissimos totam explicabo possimus id eligendi repellat, odit soluta fuga blanditiis minima vero cumque. Explicabo, ad!</textarea>
+            </div>
+        </section>     
+        <h5 style="text-align: center;">Copyright by Gourango Mandal ©2023 All rights reserved. </h5>
+    <script src="script.js"></script>
+</body>
+</html>
+
