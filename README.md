@@ -8,7 +8,7 @@ This is task from [CodeClause](https://www.linkedin.com/company/codeclause/)
 <p align="center">
    
 </p>
-Go and Check It. [Text Editor](https://gourango-cse.github.io/CodeClauseInternship_Basic-text_Editor/) 
+Go and Check It. [Text Editor](https://gourango-cse.github.io/CodeClauseInternship_Basic-Text-Editor/) 
 
 ## Author
 
